@@ -25,9 +25,3 @@ string colName(long long int n)
     return string(result);
 }
 
-int main()
-{
-    // lli num = 937482927383842;
-    // cout << colName(num);
-
-}
