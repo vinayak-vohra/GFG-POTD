@@ -19,3 +19,5 @@ This repo contains my solutions for geeksforgeeks problem of the day (POTD).
 - **Oct 06** : [Reverse alternate nodes in Link List](https://practice.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1)
 
 - **Oct 07** : [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
+
+- **Oct 08** : [Insert in a Sorted List](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1)
