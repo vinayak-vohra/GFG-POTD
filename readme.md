@@ -21,3 +21,5 @@ This repo contains my solutions for geeksforgeeks problem of the day (POTD).
 - **Oct 07** : [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
 
 - **Oct 08** : [Insert in a Sorted List](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1)
+
+- **Oct 09** : [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
