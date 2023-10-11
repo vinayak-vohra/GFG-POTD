@@ -23,3 +23,5 @@ This repo contains my solutions for geeksforgeeks problem of the day (POTD).
 - **Oct 08** : [Insert in a Sorted List](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1)
 
 - **Oct 09** : [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+
+- **Oct 11** : [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
