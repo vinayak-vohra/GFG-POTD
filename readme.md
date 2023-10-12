@@ -25,3 +25,5 @@ This repo contains my solutions for geeksforgeeks problem of the day (POTD).
 - **Oct 09** : [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 
 - **Oct 11** : [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
+
+- **Oct 12** : [Duplicate subtree in Binary Tree](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)
